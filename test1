@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height, viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="From the creators of PUBG and TERA comes a new paradise. Craft your perfect hero and wield magic and technology for control of the world of Elyon.">
+    <meta name="keyword" content="Elyon, AIR, Ascent, Ascent Infinite Realm, MMO, MMORPG, Online, RPG, Role playing game, PvP, RvR, ">
+    <meta property="og:title" content="ELYON | Official Website">
+    <meta name="og:description" content="From the creators of PUBG and TERA comes a new paradise. Craft your perfect hero and wield magic and technology for control of the world of Elyon.">
+    <meta name="google-site-verification" content="4GF0MO5ubXpsYb1TnksHVXIEpQvfG700NxbIp2ep5wc" />
+    <link rel="shortcut icon" href="https://akamai-webcdn.kgstatic.net/elyon/favicon.ico" type="image/x-icon">
+    <title>ELYON | Official Website</title>
+    <link href="https://use.typekit.net/bpm4cup.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://akamai-webcdn.kgstatic.net/resources/elyon_web/css/reset_main.css?v=20211111_1">
+    <link rel="stylesheet" type="text/css" href="https://akamai-webcdn.kgstatic.net/resources/elyon_web/css/common.css?v=20211111_1">
+    <link rel="stylesheet" type="text/css" href="https://akamai-webcdn.kgstatic.net/resources/elyon_web/css/layout.css?v=20211111_1">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="2734606c-71bb-4e4d-aa88-49fbca1a4718" type="text/javascript" async></script>
+    <script src="https://akamai-webcdn.kgstatic.net/resources/elyon_web/js/jquery.min.js"></script>
+    <script>
+        <!-- Google Tag Manager -->
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KS5525P');
+    </script>
+</head>
+<head>
+    <link rel="stylesheet" type="text/css" href="https://akamai-webcdn.kgstatic.net/resources/elyon_web/css/news.css?v=20210922_1">
+</head>
+<body>
+<div role="main" id="wrap" class="wrap">
+    <header class="doc-header">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KS5525P"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <h1 class="doc-title">
+        <a href="/" class="link_logo"><span class="ico_elyon">ELYON</span></a>
+    </h1>
+
+    <div class="section_menu">
+        <button type="button" class="type_m btn_togglemenu">
+            <span class="ico_menu">MENU OPEN</span>
+        </button>
+        <div class="type_pc group_menu">
+            <nav id="gnbContent" class="doc-gnb">
+                <h2 class="screen_out">ELYON MENU</h2>
+                <ul class="list_gnb">
+                    <li><a href="/news" class="link_gnb"><span class="txt_g">NEWS</span></a></li>
+                    <li class="item_gnb">
+                        <a href="javascript:" class="link_gnb"><span class="txt_g">SHOP</span><span class="ico_more"></span></a>
+                        <ul class="list_subgnb">
+                            <li><a href="http://shop.playkakaogames.com/elyon/package" class="link_subgnb"><span class="txt_g">PACKAGES</span></a></li>
+                            <li><a href="http://shop.playkakaogames.com/kcoin" class="link_subgnb"><span class="txt_g">KCOIN</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="item_gnb">
+                        <a href="javascript:;" class="link_gnb"><span class="txt_g">COMMUNITY</span><span class="ico_more"></span></a>
+                        <ul class="list_subgnb">
+                            <li><a href="https://www.playkakaogames.com/partners" target="_blank" class="link_subgnb"><span class="txt_g">Partners</span></a></li>
+                            <li><a href="http://discord.gg/elyon" target="_blank" class="link_subgnb"><span class="txt_g">Discord</span></a></li>
+                            <li><a href="https://www.facebook.com/ElyonTheGame/" target="_blank" class="link_subgnb"><span class="txt_g">facebook</span></a></li>
+                            <li><a href="https://twitter.com/Elyon_thegame" target="_blank" class="link_subgnb"><span class="txt_g">twitter</span></a></li>
+                            <li><a href="https://www.instagram.com/elyonthegame/" target="_blank" class="link_subgnb"><span class="txt_g">instagram</span></a></li>
+                            <li><a href="https://www.twitch.tv/playkakaogames" target="_blank" class="link_subgnb"><span class="txt_g">twitch</span></a></li>
+                            <li><a href="https://www.youtube.com/channel/UCgAiibAWr-onnKQEoYz83Aw" target="_blank" class="link_subgnb"><span class="txt_g">youtube</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="type_pc">
+                        <a href="/download" class="link_gnb"><span class="txt_g">DOWNLOAD</span></a>
+                    </li>
+                    <li class="type_m">
+                        <a href="https://store.steampowered.com/app/1674470/ELYON/" class="link_gnb" target="_blank"><span class="txt_g">STEAM</span></a>
+                    </li>
+                    <li>
+                        
+                        
+                            <a href="https://elyon.zendesk.com/hc/en-us" target="_blank" class="link_gnb"><span class="txt_g">SUPPORT</span></a>
+                        
+                    </li>
+                    <li class="type_pc">
+                        <a href="https://store.steampowered.com/app/1674470/ELYON/" class="link_gnb" target="_blank"><span class="txt_g">STEAM</span></a>
+                    </li>
+                    <li><a href="/twitchdrops" class="link_gnb"><span class="txt_g">Twitch Drops</span></a></li>
+                    <li><a href="/leaderboard" class="link_gnb"><span class="txt_g">LEADERBOARD</span></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="section_account">
+        <button type="button" class="type_m btn_togglemenu">
+            <span class="ico_account">MY ACCOUNT OPEN</span>
+        </button>
+
+        <div class="type_pc group_account">
+            <strong class="screen_out">MY ACCOUNT MENU</strong>
+            <ul class="list_gnb">
+                <li><a href="/login" class="link_gnb"><span class="txt_g">LOGIN</span></a></li>
+                <li><a href="https://login.playkakaogames.com/register" class="link_gnb"><span class="txt_g">CREATE ACCOUNT</span></a></li>
+            </ul>
+            
+            
+            
+        </div>
+    </div>
+
+</header><!-- // kakaoHead -->
+    <div style="height:0;">
+    <script id="CookieDeclaration" src="https://consent.cookiebot.com/2734606c-71bb-4e4d-aa88-49fbca1a4718/cd.js" type="text/javascript" async></script>
+    <style>.CookieDeclaration {display:none;}</style>
+</div>
+    <main id="mainContent" class="doc-main">
+        <h2 class="screen_out">ELYON NEWS</h2>
+
+        <section class="news_list-wrap">
+            <div class="inner_news-cont">
+                <div class="news_top-banner" ></div>
+
+                <div class="news_list">
+                    <div class="news_list-tab">
+                        <div class="type_pc">
+                            <a href="/news">ALL</a>
+                            <a href="?type=NEWS301" class="type_cate3">ANNOUNCEMENTS</a>
+                            <a href="?type=NEWS302" class="type_cate2">EVENTS</a>
+                            <a href="?type=NEWS303" class="type_cate1 on">MAINTENANCE</a>
+                            <a href="?type=NEWS304" class="type_cate4">UPDATES</a>
+                        </div>
+                        <div class="type_m select-box">
+                            <p>MAINTENANCE</p>
+                            <select name="move_cate">
+                                <option value="ALL">ALL</option>
+                                <option value="NEWS301">ANNOUNCEMENTS</option>
+                                <option value="NEWS302">EVENTS</option>
+                                <option value="NEWS303" selected="selected">MAINTENANCE</option>
+                                <option value="NEWS304">UPDATES</option>
+                            </select>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="news_list-body">
+                    </div>
+                    <div class="news_list-more">
+                        <button type="button" class="bt bt-more load_more" data-page="1" data-type="NEWS303" >LOAD MORE</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <button class="btn_top">
+            <span class="ico_top">Go To TOP</span>
+        </button><!-- 2021-06-14 수정 -->
+    </main>
+    <footer class="doc-footer">
+    <h2 class="screen_out">Service Information</h2>
+    <div class="wrap_foot">
+        <div class="group_sns">
+            <strong class="screen_out">FOLLOW US</strong>
+            <ul class="list_sns">
+                <li><a href="https://www.facebook.com/ElyonTheGame/" target="_blank" class="link_sns"><span class="ico_facebook">facebook</span></a></li>
+                <li><a href="https://twitter.com/Elyon_thegame" target="_blank" class="link_sns"><span class="ico_twitter">twitter</span></a></li>
+                <li><a href="https://www.youtube.com/channel/UCgAiibAWr-onnKQEoYz83Aw" target="_blank" class="link_sns"><span class="ico_youtube">youtube</span></a></li>
+                <li><a href="https://www.instagram.com/elyonthegame/" target="_blank" class="link_sns"><span class="ico_instagram">instagram</span></a></li>
+                <li><a href="https://www.twitch.tv/elyon_official" target="_blank" class="link_sns"><span class="ico_twitch">twitch</span></a></li>
+                <li><a href="http://discord.gg/elyon" target="_blank" class="link_sns"><span class="ico_discord">Discord</span></a></li>
+            </ul>
+        </div>
+        <div class="group_lang">
+            <strong class="screen_out">Language Selection Box</strong>
+            <a href="javascript:;" class="link_selected" aria-expanded="false">
+                <span class="ico_lang"></span>
+                <span class="txt_selected">ENGLISH</span>
+                <span class="ico_arrow"></span>
+            </a>
+            <ul class="list_lang" role="listbox">
+                <li class="on" ><a href="javascript:;" class="link_lang" role="option" data-value="EN" aria-selected="true">English</a></li>
+                <li ><a href="javascript:;" class="link_lang" role="option" data-value="DE" aria-selected="false">Deutsch</a></li>
+                <li ><a href="javascript:;" class="link_lang" role="option" data-value="ES" aria-selected="false">Español</a></li>
+                <li ><a href="javascript:;" class="link_lang" role="option" data-value="FR" aria-selected="false">Français</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="wrap_foot">
+        <div class="group_info">
+            <ul class="list_info">
+                <li><a target="_blank" href="https://account.playkakaogames.com/about" class="link_info">About us</a></li>
+                <li><a target="_blank" href="https://account.playkakaogames.com/tou" class="link_info">Term of Use</a></li>
+                <li><a target="_blank" href="https://account.playkakaogames.com/pp" class="link_info">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="group_company">
+            <ul class="list_company">
+                <li><a href="https://www.playkakaogames.com" target="_blank" class="link_kakaogames"><span class="ico_kakaogames">kakaogames</span></a></li>
+                <li><a href="https://www.krafton.com/studios/bluehole/" target="_blank" class="link_bluhole"><span class="ico_bluhole">bluhole</span></a></li>
+                <li><a href="https://www.krafton.com/kr/" target="_blank" class="link_krafton"><span class="ico_krafton">krafton</span></a></li>
+            </ul>
+        </div>
+        <div class="group_copy">
+            <small class="txt_copyright">&copy; Copyright &copy; 2021 Kakao Games Europe B.V. <br class="type_m">&copy; 2021 Bluehole Studio, Inc. &copy; 2021 KRAFTON. Inc.</small>
+        </div>
+    </div>
+</footer><!-- // Footer -->
+</div>
+
+
+    <script src="https://akamai-webcdn.kgstatic.net/resources/elyon_web/js/plugin.min.js?v=20210726_1"></script>
+    <script src="https://akamai-webcdn.kgstatic.net/resources/elyon_web/js/slick.min.js?v=20210726_1"></script>
+    <script src="https://akamai-webcdn.kgstatic.net/resources/elyon_web/js/common.js?v=20211020_1"></script>
+<!-- // COMMON JS -->
+<script src="https://akamai-webcdn.kgstatic.net/resources/elyon_web/js/article.js?v=20210714_1"></script>
+
+<script>
+    $(document).ready(function($) {
+        loadLatestNews('NEWS303', $('.news_top-banner'), $('.news_list-body'), $('.news_list-more'));
+    });
+
+    $('.news_list-tab .select-box select').on('change',function() {
+        if($(this).val() == 'ALL'){
+            location.href=  "/news";
+        }else{
+            location.href=  "/news?type="+$(this).val();
+        }
+        $(this).blur();
+    });
+
+</script>
+</body>
+</html>
