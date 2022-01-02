@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Elyon news</title>
+		<link>https://elyon.playkakaogames.com/news</link>
+		<description>news updeit</description>
+		<language>en-us</language>
+		<copyright><![CDATA[ kakaogames ]]></copyright>
+		<image>
+			<url>https://images.igdb.com/igdb/image/upload/t_cover_big/co2ikp.jpg</url>
+			<title>Elyon news</title>
+			<link>https://elyon.playkakaogames.com/news</link>
+		</image>
+		<item>
+			<title>Elyon News Update</title>
+			<link>https://elyon.playkakaogames.com/news</link>
+			<pubDate>Sat, 1  2022 12:00:00 GMT</pubDate>
+			<author>sleit2000</author>
+			<category>Games</category>
+			<description><![CDATA[ 
+			<h1>Elyon News Update</h1>
+			<p>Elyon Updates<p>
+			]]></description>
+		</item>
+	</channel>
+</rss>
